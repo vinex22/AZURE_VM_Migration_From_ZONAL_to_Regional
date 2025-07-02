@@ -126,20 +126,7 @@ The script intelligently manages boot diagnostics storage accounts:
 - **Cross-Resource Group**: VNet in different resource group
 - **Custom Subnets**: Flexible subnet selection
 
-## 📁 File Structure
 
-```
-azure-vm-cloning/
-├── create-vm-from-snapshot.ps1          # Main cloning script
-├── test-azure-environment.ps1           # Environment validation
-├── README.md                           # This file
-├── docs/
-│   ├── README-boot-diagnostics-storage.md  # Storage management guide
-│   ├── README-NSG-explained.md            # NSG configuration guide
-│   └── SOLUTION-SUMMARY-boot-diagnostics.md # Technical summary
-└── examples/
-    └── example-usage.ps1               # Usage examples
-```
 
 ## 🏆 Enterprise Features
 
