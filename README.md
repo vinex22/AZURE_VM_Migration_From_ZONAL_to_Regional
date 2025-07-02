@@ -1,6 +1,6 @@
 # Azure VM Cloning Automation
 
-🚀 **Enterprise-grade PowerShell script for automated Azure Virtual Machine cloning using disk snapshots**
+🚀 **PowerShell script for automated Azure Virtual Machine cloning using disk snapshots**
 
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
